@@ -1,6 +1,6 @@
 a sort of dino game clone
 
-##To-Do
+## To-Do
 
 <ul>
     <li>create sprites<li>
